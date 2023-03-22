@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PyTorch, Generative AI, LLM**
 
-- 👨‍💻 All of my projects are available at [https://sumantha-nts.github.io/sumantha-profile/](https://sumantha-nts.github.io/sumantha-profile/)
+- 👨‍💻 All of my projects are available at [https://sumantha-nts.github.io/profile/](https://sumantha-nts.github.io/profile/)
 
 - 💬 Ask me about **Git, Ubuntu**
 
